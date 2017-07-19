@@ -35,6 +35,12 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/README": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/README",
+		"oF": 0
+		},
 	"\/scripts\/main.js": {
 		"ft": 64,
 		"mi": 0,
@@ -1878,7 +1884,7 @@
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
